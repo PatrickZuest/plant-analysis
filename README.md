@@ -1,7 +1,7 @@
 # Color Analysis of Xylem Structures
 Archived code that was developed for a research project at [WSL Birmensdorf, Switzerland](https://www.wsl.ch/). The original study was conducted by Prof. Fritz Schweingruber and Patrick Züst in 2015/16, supervisioned by Prof. Ulf Büntgen. The approach was later used in several dendrochronlogy research groups around the world. 
 
-![Cephalanthus_occidentalis](/Example_Pictures/146_33_Cephalanthus_occidentalis_L/146_33_Cephalanthus_occidentalis_L.JPG)
+![Color Analysis of a cross-section](https://i.ibb.co/W6wD6fP/WSL.png)
 
 ## Biological Background
 Plant lignification has been an important research topic for years. Our assumption was that the amount of lignin in xylem structures can serve as an indicator for a plant's living condition. The more mechanical stress a plant experiences, the more lignin is produced. 
